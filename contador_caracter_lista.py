@@ -24,7 +24,7 @@ def contador_caracter(texto):
         else:
             print(f'{caracter_anterior}: {contagem}')
             caracter_anterior = caracter
-            contagem = 1print(f'{caracter_anterior} = {contagem}')
+            contagem = 1
 
     print(f'{caracter_anterior}: {contagem}')
 
